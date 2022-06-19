@@ -1,0 +1,6 @@
+{
+    "development" : "mongodb://localhost:27017/dev",
+    "stagging" : "mongodb://localhost:27017/stagging",
+    "demo" : "mongodb://localhost:27017/demo",
+    "production" : "mongodb://localhost:27017/production"
+}

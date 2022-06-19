@@ -1,0 +1,25 @@
+{
+	"superSecret" : "dCEeq7mSPENCGxUr",
+	"email" : "smtps://sir.ayaz%40proex.in:sir.ayaz@proex@smtp.gmail.com",
+    "sms" : "http://ip.shreesms.net/smsserver/SMS10N.aspx?Userid=proex&UserPassword=proex@2020%23&PhoneNumber=9620354720",
+    "GOOGLE_CLIENT_ID":"1089076611496-vicue1n6ms9dsjjbhv5rr84dj6nfd3fo.apps.googleusercontent.com",
+    "FIREBASE_SEREVER_KEY":"AAAAf26HvOQ:APA91bFxWYZuRpjusfZjBVjdN827w2qmGL3VPJXaoKIl3NlEegbI9cIZNbai0I_03sHmmazYtgnsMeDi6on8m3XukGiDxb4dTVd7gXCZAUT18qIAtxIbM8R4-fa8tGahLGcfUCrjRD3r",
+    "FIREBASE_COLLAPSE_KEY" : "670496218079",
+    "BC_FIREBASE_SEREVER_KEY":"AIzaSyAUbs91bQMhAp8r3wfC_JJLLiLwCdx3h4A",
+    "BC_FIREBASE_COLLAPSE_KEY" : "1074017992658",
+    "hostname" : "http://139.59.79.152:3003",
+    "default_profile_pic":"https://s3.ap-south-1.amazonaws.com/ggn-dhwani/resources/default-user-image.png",
+    "web_hostname" : "http://188.166.230.71/projects/ggn/ggn_web_test/web/images/",
+    "replyToMail" : "sir.ayaz47@proex.in",
+    "AWS_ACCESS_KEY_ID":"AKIAIUP6JEUGYCFQE2QQ",
+    "AWS_SECRET_ACCESS_KEY":"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",
+    "AWS_BUCKET" : "ProExclusion",
+    "AWS_REGION"  :"karnataka-south-1",
+    "MSG91":{
+        "AUTHKEY" : "180577AHgwvM5ZNxN59ef2bf8",
+        "POSTURL" : "http://api.msg91.com/api/v2/sendsms",
+        "SENDERID": "PROEX_ADMIN",
+        "COUNTRY" : "91"
+    }
+
+}
